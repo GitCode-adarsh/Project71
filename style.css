@@ -1,0 +1,81 @@
+body{
+    background-color: yellow;
+}
+.my_nav_bar{
+    position: sticky;
+    top: 0;
+    z-index: 9999;
+}
+#school-name img{
+    height: 200px;
+    width: 300px;
+}
+#school-name{
+    text-align: center;
+    color: blue;
+    background-image: linear-gradient( orange 0% , white 50% , green 100%);
+    height: 400px;
+}
+.campus_mainDiv {
+    background-image: linear-gradient( red 0% , blue 100%);
+    height: 510px;
+    width: 800px;
+    border: 2px;
+    border-style: solid;
+    padding: 2px;
+    float: none;
+}
+
+.campus_mainDiv img {
+    width:40%;
+}
+
+.campus_mainDiv hr {
+    width: 230px;
+}
+
+.campus_mainDiv h5 {
+    color: orange;
+    margin-left: 20px;
+}
+
+.campus_mainDiv p {
+    color: white;
+    margin-left: 20px;
+}
+
+.achieve_head {
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;    
+    width: 100%;
+    display: inline-block;
+}
+
+.achieve_head i {
+    float: right;
+}
+
+.achieve_text span {
+    color: #ff7700;
+}
+.line{
+    background-color:  black;
+    height: 7px;
+    width: 100px;
+    margin: 8px auto;
+}
+#ContactUs{
+    text-align: center;
+    color: black;
+    background-image: linear-gradient( red 0% , orange 100%);
+    height: 2000px;
+}
+#achievements8{
+    color: red;
+}
+img{
+    height: 400px;
+    width: 300px;
+}
